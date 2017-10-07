@@ -1,0 +1,25 @@
+img {
+  width: 60%;
+  display: block;
+  margin-top: 20px;
+  margin-right: auto;
+  margin-bottom: 20px;
+  margin-left: auto;
+}
+body {
+  margin-top: 20px;
+  color: white;
+  background-color: Grey;
+}
+.info-box {
+  margin: auto;
+}
+.tag-line {
+  margin-bottom: 20px;
+}
+.note{
+  margin: auto;
+}
+a {
+  color: black;
+}
